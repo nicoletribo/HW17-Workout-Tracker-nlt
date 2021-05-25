@@ -2,7 +2,7 @@
 
 ## Description
 
-We created a workout tracker using Mongo database with a Mongoose schema and handle routes with Express.
+We created a workout tracker using a Mongo database with a Mongoose schema and handling routes with Express. The application allows users to track their workout progress on a given day in ordeer to meet fitness goals. Users can add exercises to the most recent workout plan, add new exercises to a new workout plan, and track their weight, reps, sets, and duration of an exercise.
 
 ## User Story
 
@@ -12,11 +12,11 @@ We created a workout tracker using Mongo database with a Mongoose schema and han
 
 https://workout-tracker-nlt.herokuapp.com/
 
-<img width="500" alt="Screen Shot 2021-05-24 at 8 52 37 PM" src="https://user-images.githubusercontent.com/76696641/119428955-7ad78c80-bcd3-11eb-8a55-5e50b611034c.png">
+<img width="750" alt="Screen Shot 2021-05-24 at 8 52 37 PM" src="https://user-images.githubusercontent.com/76696641/119428955-7ad78c80-bcd3-11eb-8a55-5e50b611034c.png">
 
-<img width="500" alt="Screen Shot 2021-05-24 at 8 57 38 PM" src="https://user-images.githubusercontent.com/76696641/119430203-f76b6a80-bcd5-11eb-8d5e-aa7dbe678a99.png">
+<img width="750" alt="Screen Shot 2021-05-24 at 8 57 38 PM" src="https://user-images.githubusercontent.com/76696641/119430203-f76b6a80-bcd5-11eb-8d5e-aa7dbe678a99.png">
 
-<img width="500" alt="Screen Shot 2021-05-24 at 9 19 32 PM" src="https://user-images.githubusercontent.com/76696641/119430110-cd19ad00-bcd5-11eb-9fa1-e95a5424f9ae.png">
+<img width="750" alt="Screen Shot 2021-05-24 at 9 19 32 PM" src="https://user-images.githubusercontent.com/76696641/119430110-cd19ad00-bcd5-11eb-9fa1-e95a5424f9ae.png">
 
 ## Questions
 
